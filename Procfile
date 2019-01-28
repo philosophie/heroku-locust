@@ -1,2 +1,2 @@
-web: locust -P $PORT --host=http://www.cfapps.pez.pivotal.io
+web: locust -P $PORT --host=https://cstarleague-v3-staging.herokuapp.com
 
