@@ -1,2 +1,2 @@
-web: locust -P $PORT --host=https://cstarleague-v3-staging.herokuapp.com
+web: locust -P $PORT --host=https://cstarleague-v3-performance.herokuapp.com
 
